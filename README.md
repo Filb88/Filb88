@@ -1,6 +1,6 @@
-## :rocket: Filb88 
+# :rocket: Filb88 
 
-# Digital Space Pirate :computer::stars::skull:
+
 
 <!--
 **Filb88/Filb88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
