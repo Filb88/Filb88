@@ -18,7 +18,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-#:crossed_swords: CodeWars:
+# :crossed_swords: CodeWars:
 https://www.codewars.com/users/Filb
 
 <!--
