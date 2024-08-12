@@ -21,6 +21,9 @@
 ### :crossed_swords: CodeWars:
 https://www.codewars.com/users/Filb
 
+### :film_projector: YouTube:
+https://www.youtube.com/@Filb88
+
 <!--
 **Filb88/Filb88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
