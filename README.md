@@ -19,6 +19,9 @@
 </p>
 <hr>
 
+<h3>I'm currently working on</h3>
+https://filb88.github.io/berta/
+
 ### :crossed_swords: CodeWars:
 https://www.codewars.com/users/Filb
 
