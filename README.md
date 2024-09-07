@@ -19,8 +19,10 @@
 </p>
 <hr>
 
-<h3>I'm currently working on</h3>
+<h3>🔨 I'm currently working on</h3>
 https://filb88.github.io/berta/
+
+<hr>
 
 ### :crossed_swords: CodeWars:
 https://www.codewars.com/users/Filb
