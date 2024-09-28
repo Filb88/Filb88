@@ -19,8 +19,8 @@
 </p>
 <hr>
 
-<h3>🔨 I'm currently working on</h3>
-https://filb88.github.io/berta/
+<h3>🔨 Last project</h3>
+https://bertakarcounselling.co.uk
 
 <hr>
 
